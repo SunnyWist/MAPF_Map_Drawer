@@ -9,3 +9,6 @@ Edit the `map.csv` file to create your map. The file should contain a matrix of 
 And edit the `map_info.yaml` file to show the agents and goals.
 
 Run the `main.py` file to draw the map, and save it as a PNG file.
+
+## Sample Image
+![Sample Image](sample/sample.png)
